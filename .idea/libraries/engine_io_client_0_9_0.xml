@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="engine.io-client-0.9.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/Socket.io-java-client/jar_files (1)/engine.io-client-0.9.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Socket.io-java-client/jar_files (1)/json-20090211.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Socket.io-java-client/jar_files (1)/okhttp-3.8.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Socket.io-java-client/jar_files (1)/okio-1.13.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Socket.io-java-client/jar_files (1)/socket.io-client-0.9.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
